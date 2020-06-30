@@ -14,7 +14,7 @@
 
   <div class="maincontent">
   	 <section class="topcontent">
-  	<button class="button1">forward</button>
+  	<button class="button1" id="for" type="button" onclick="msg()">forward</button>
   	<br>
   	<button class="button4">left</button>
   	<button class="button2">stop</button>
@@ -22,5 +22,6 @@
   	<br>
   	<button class="button3">backward</button></section>
   </div>
+  
 </body>
 </html>
